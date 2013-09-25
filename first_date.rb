@@ -11,7 +11,7 @@ if age.to_i > 30 then
   ans2 = gets.chomp!
 else puts "That's real."
 end
-if ans2 == "y"
+if ans2 == "n"
   puts "Do you plan on getting married?"
 else puts "Cool, me neither."
 end
